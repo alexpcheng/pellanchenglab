@@ -1,16 +1,13 @@
-title: alexpcheng
-subtitle: by the Greene Lab
-description: An engaging 1-3 sentence description of your lab.
+title: Alexandre Pellan Cheng's page
+subtitle: 
+description: Next Generation Cancer Monitoring Tools
 header: images/background.jpg
 footer: images/background.jpg
 links:
   email: contact@your-lab.com
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: your-lab
   twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
 defaults:
   - scope:
       path: ""
@@ -47,7 +44,5 @@ exclude:
   - LICENSE.md
   - CITATION.cff
 email: contact@alexpcheng.com
-github: alexpcheng
 twitter: alexpcheng
-instagram: alexpcheng
 youtube: alexpcheng
