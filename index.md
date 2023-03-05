@@ -1,9 +1,9 @@
 ---
 ---
 
-# Alex's Website
+# Welcome!
 
-My biomedical research focuses on wet- and dry-lab technology development for noninvassive cancer detection and characterization.
+My research focuses on wet- and dry-lab technology development for noninvassive cancer detection and characterization.
 
 {% include section.html %}
 
