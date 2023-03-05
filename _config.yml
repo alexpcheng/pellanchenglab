@@ -2,9 +2,9 @@
 title: Lab Website Template
 subtitle: by the Greene Lab
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+header-dark: false
 header: images/background2.jpg
 footer: images/background2.jpg
-header-dark: false
 # site social media and other links
 links:
   email: contact@your-lab.com
