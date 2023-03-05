@@ -7,13 +7,9 @@ header: images/background2.jpg
 footer: images/background2.jpg
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  orcid: 0000-0002-3667-0992
+  google-scholar: txVdvdQAAAAJ
+  twitter: AlexandrePCheng
 
 ### jekyll settings
 
