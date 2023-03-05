@@ -24,16 +24,16 @@
         {% endif %}
       </span>
     {% endif %}
-#    {% if site["logo-text"] != false %}
-#      <span class="title" data-tooltip="Home">
-#        {% if site.title %}
-#          <span>{{ site.title }}</span>
-#        {% endif %}
-#        {% if site.subtitle %}
-#          <span>{{ site.subtitle }}</span>
-#        {% endif %}
-#      </span>
-#    {% endif %}
+    {% if site["logo-text"] != false %}
+      <span class="title" data-tooltip=nil>
+        {% if site.title %}
+          <span>{{ site.title }}</span>
+        {% endif %}
+        {% if site.subtitle %}
+          <span>{{ site.subtitle }}</span>
+        {% endif %}
+      </span>
+    {% endif %}
   </a>
 
   <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
