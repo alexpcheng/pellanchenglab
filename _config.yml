@@ -5,7 +5,7 @@ description: An easy-to-use, flexible website template for labs, with automatic 
 header-dark: false
 footer-dark: true
 header: images/background2.png
-footer: images/background2.png
+footer: images/background3.png
 # site social media and other links
 links:
   orcid: 0000-0002-3667-0992
