@@ -9,7 +9,7 @@
 <header
   class="background"
   style="--image: url('{{ image }}')"
-  data-dark="{{ dark }}"
+#  data-dark="{{ dark }}"
   {% if page.url == "/" %}
     data-big
   {% endif %}
@@ -25,7 +25,7 @@
       </span>
     {% endif %}
     {% if site["logo-text"] != false %}
-      <span class="title" data-tooltip="Home">
+      <span class="title"> #data-tooltip="Home">
         {% if site.title %}
           <span>{{ site.title }}</span>
         {% endif %}
