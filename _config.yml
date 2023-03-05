@@ -3,6 +3,7 @@ title: Alexandre Pellan Cheng, PhD
 subtitle: Next Generation Cancer Monitoring
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 header-dark: false
+footer-dark: true
 header: images/background2.jpg
 footer: images/background2.jpg
 # site social media and other links
