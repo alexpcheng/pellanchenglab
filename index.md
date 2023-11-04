@@ -3,7 +3,7 @@
 
 # Welcome!
 
-My research focuses on wet- and dry-lab technology development for noninvassive cancer detection and characterization.
+Our lab focuses on wet- and dry-lab technology development for noninvassive disease detection and characterization.
 
 {% include section.html %}
 
